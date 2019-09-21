@@ -40,9 +40,9 @@ Exception in thread "main" java.lang.NullPointerException
   2.每个阵型是依据当前小喽啰数量和地图大小进行调整的。地图越大，可容纳的敌军越多。
   3.可指定小喽啰数量，地图容纳不下的小喽啰是存放在一个Vector里，将来的实现可以是当地图上敌军死亡，再从Vector取出补充到地图上。
 
-  ![exp](\exp.png)
+  ![exp](\picture\exp.png)
 
   >如图，左侧蓝色★表示爷爷，接着7色的圆点表示葫芦娃，紫色三角是蝎子精，黑色圆点是小喽啰，最右侧的★是蛇精。
 
 
-![uml](\hw3_uml.png)
+![uml](\picture\hw3_uml.png)
